@@ -1,4 +1,4 @@
-# Create the country_capitals dictionary
+# Create the capitals dictionary
 capitals = {
     'USA': 'Washington, D.C.',
     'France': 'Paris',
